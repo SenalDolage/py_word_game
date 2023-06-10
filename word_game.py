@@ -1,5 +1,5 @@
 # Name:             Senal Dampiya Dolage
-# Student Number:   10609526
+# Student Number:   
 
 import random
 
